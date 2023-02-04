@@ -10,13 +10,13 @@ Kullanıcı adı: Admin
 
 Parola: 123456789
 
-![](\onizleme\onizleme_1.png)
+![](https://raw.githubusercontent.com/herrwinfried/hofmann-cms/main/onizleme/onizleme_1.png)
 
 #
 
-![](\onizleme\onizleme_2.png)
+![](https://raw.githubusercontent.com/herrwinfried/hofmann-cms/main/onizleme/onizleme_2.png)
 
 #
 
-![](\onizleme\onizleme_3.png)
+![](https://raw.githubusercontent.com/herrwinfried/hofmann-cms/main/onizleme/onizleme_3.png)
 
